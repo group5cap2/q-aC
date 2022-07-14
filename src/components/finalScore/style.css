@@ -1,0 +1,22 @@
+.divFinal {
+    margin-top: 15%;
+    color: white;
+    font-size: 5vh;
+    text-align: center;
+}
+
+#btnEnd {
+    margin-left: 33%;
+}
+
+.endGif {
+    position: absolute;
+    z-index: 99;
+    width: 70vh;
+    height: 55vh;
+    background-image: url("https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109170_FREE_FIREWORKS_400.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 33%;
+    margin-top: -23%;
+}
